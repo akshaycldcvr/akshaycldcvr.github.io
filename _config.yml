@@ -1,6 +1,5 @@
-theme: jekyll-theme-minimal
 title: Akshayy github pages homepage
-description:
-  Akshayy github pages welcomes you!!
-
-  Note: This is my first site!
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-them
+description: Akshayy github pages welcomes you!!
